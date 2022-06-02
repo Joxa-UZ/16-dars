@@ -202,6 +202,12 @@ label {
     outline: none;
     caret-color: #000;
 }
+.all:focus{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
 
 .all:focus {
     border-bottom: 2px solid #000;
